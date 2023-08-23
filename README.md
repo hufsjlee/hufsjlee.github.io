@@ -91,7 +91,7 @@ main:
     url: /about/ #_pages/about.md 연결
 
   - title: "GitHub"
-    url: https://github.com/github-account # 깃허브 바로가기 (본인 깃허브로 변경)
+    url: https://github.com/HUFSjlee # 깃허브 바로가기 (본인 깃허브로 변경)
 
 
   # 카테고리 기능이 필요하면 활성화 하기 (_pages/categories-archive.md 연결)
