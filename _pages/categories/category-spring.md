@@ -1,7 +1,7 @@
 ---
-title: "Categories3"
+title: "Spring"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/spring/
 author_profile: true
 taxonomy: Categories3
 sidebar:

@@ -20,9 +20,9 @@ main:
 categories:
   - title: "프로젝트 중 이슈"
     url: /categories/project/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "JPA"
+    url: /categories/jpa/
+  - title: "Spring"
+    url: /categories/spring/
+  - title: "CS"
+    url: /categories/cs/
