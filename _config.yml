@@ -21,7 +21,7 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 locale: "ko-KR" #"en-US"
 title: "HUFSjlee's Blog" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
-subtitle: "subtitle"
+subtitle: "기록을 위한 나의 공간"
 name: "HUFSjlee" # 블로그 닉네임 설정
 description: "기록을 위한 나의 공간" # 블로그 설명
 url: "https://HUFSjlee.github.io" # 블로그 URL
@@ -117,9 +117,9 @@ author:
 #     - label: "Facebook"
 #       icon: "fab fa-fw fa-facebook-square"
 #       # url: "https://facebook.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
+     - label: "GitHub"
+       icon: "fab fa-fw fa-github"
+       url: "https://github.com/HUFSjlee"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://www.instagram.com/"
