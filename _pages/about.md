@@ -5,4 +5,4 @@ layout: single
 comments: false
 ---
 
-[//]: # (본인 소개 여기에 입력)
+소중한 정보들을 기록하는 공간으로 사용합니다
