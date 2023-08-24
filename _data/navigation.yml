@@ -24,7 +24,6 @@ categories:
     url: /categories/jpa/
   - title: "Spring"
     url: /categories/spring/
-  - title: "CS"
-    children:
-      - title: "운영체제"
+  - title: "OS"
     url: /categories/os/
+
