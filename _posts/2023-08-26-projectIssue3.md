@@ -3,9 +3,9 @@ title: "예외처리"
 excerpt: "예외를 공통으로 처리하기"
 
 categories:
-- Project
-  tags:
-- [tag1, tag2]
+  - Project
+tags:
+  - [tag1, tag2]
 
 permalink: /project/projectIssue3/
 

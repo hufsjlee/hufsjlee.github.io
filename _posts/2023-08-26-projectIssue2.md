@@ -4,7 +4,7 @@ excerpt: "Response Code 관리 방법"
 
 categories:
   - Project
-  tags:
+tags:
   - [tag1, tag2]
 
 permalink: /project/projectIssue2/
