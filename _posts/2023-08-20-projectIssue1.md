@@ -3,9 +3,9 @@ title: "JPA N+1"
 excerpt: "JPA N+1 문제 이슈"
 
 categories:
-- Project
-  tags:
-- [tag1, tag2]
+  - Project
+tags:
+  - [tag1, tag2]
 
 permalink: /project/projectIssue1/
 
