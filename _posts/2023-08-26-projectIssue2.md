@@ -16,7 +16,7 @@ date: 2023-08-20
 last_modified_at: 2023-08-20
 ---
 
-## 🦥 본문
+## 🔎 본문
 
 ### Response를 깔끔하게 정리하여 관리하는 방식 적용
 - 공통 응답 코드 BaseResponse 클래스에서 관리
