@@ -3,9 +3,9 @@ title: "Response"
 excerpt: "Response Code 관리 방법"
 
 categories:
-   - Project
+  - Project
   tags:
-   - [tag1, tag2]
+  - [tag1, tag2]
 
 permalink: /project/projectIssue2/
 
