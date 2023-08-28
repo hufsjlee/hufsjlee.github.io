@@ -4,7 +4,7 @@ excerpt: "Failed to start bean 'documentationPluginsBootstrapper'; nested except
 
 categories:
   - Project
-  tags:
+tags:
   - [tag1, tag2]
 
 permalink: /project/projectIssue5/
