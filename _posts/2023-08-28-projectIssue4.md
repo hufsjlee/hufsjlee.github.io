@@ -3,9 +3,9 @@ title: "RDBMS N:M"
 excerpt: "테이블 설계 단계에서의 N:M 관계 이슈"
 
 categories:
-- Project
+  - Project
   tags:
-- [tag1, tag2]
+  - [tag1, tag2]
 
 permalink: /project/projectIssue4/
 

@@ -3,9 +3,9 @@ title: "Swagger 오류 문제"
 excerpt: "Failed to start bean 'documentationPluginsBootstrapper'; nested exception is java.lang.NullPointerException"
 
 categories:
-- Project
+  - Project
   tags:
-- [tag1, tag2]
+  - [tag1, tag2]
 
 permalink: /project/projectIssue5/
 
