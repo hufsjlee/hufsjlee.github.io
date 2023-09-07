@@ -20,5 +20,5 @@ last_modified_at: 2023-09-07
 
 ### 도커에 redis 띄우기
 - docker-compose.yml 에 redis 설정 추가
-  ![](./docker-compose.PNG)
+<img src="https://github.com/HUFSjlee/HUFSjlee.github.io/assets/67497759/7a50e3e6-b0a6-4ce6-b52c-448aef40b158/">
 
