@@ -12,8 +12,8 @@ permalink: /project/MSAProjectIssue1/
 toc: true
 toc_sticky: true
 
-date: 2023-03-03
-last_modified_at: 2023-03-03
+date: 2024-03-03
+last_modified_at: 2024-03-03
 ---
 
 ## 🔎 본문
