@@ -1,6 +1,6 @@
 ---
-title: "msa 전환기"
-excerpt: "msa 전환 중 이슈"
+title: "MSA 전환기"
+excerpt: "MSA 전환 중 발생한 이슈"
 
 categories:
   - Project
@@ -19,4 +19,5 @@ last_modified_at: 2023-03-03
 ## 🔎 본문
 
 ### stadium 테이블
-- 제대로 업로드 되는지 테스트.
+- 업로드 테스트
+
