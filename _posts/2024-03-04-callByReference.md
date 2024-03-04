@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /cs/callbyreference/
+permalink: /cs/reference/
 
 toc: true
 toc_sticky: true
