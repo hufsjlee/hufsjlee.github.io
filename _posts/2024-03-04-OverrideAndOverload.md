@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /cs/OverrideAndOverload/
+permalink: /cs/override/
 
 toc: true
 toc_sticky: true
