@@ -76,7 +76,7 @@ public class OverrideExample {
     }
 }
 ```
-* 코드를 보면 Dog 클래스는 Animal 클래스의 makeSound 메서드를 오버라이딩합니다. 부모 클래스의 메서드를 자식 클래스에서 새로운 구현으로 대체하므로, Dog 객체에서 makeSound를 호출하면 자식 클래스의 메서드가 실행됩니다.
+* 코드를 보면, Dog 클래스는 Animal 클래스의 makeSound 메서드를 오버라이딩합니다. 부모 클래스의 메서드를 자식 클래스에서 새로운 구현으로 대체하므로, Dog 객체에서 makeSound를 호출하면 자식 클래스의 메서드가 실행됩니다.
 
 
 
