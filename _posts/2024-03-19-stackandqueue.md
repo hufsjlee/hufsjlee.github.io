@@ -3,7 +3,7 @@ title: "스택(Stack)과 큐(Queue)"
 excerpt: "스택과 큐에 대해 알아보자!"
 
 categories:
-  - OS
+  - CS
 tags:
   - [tag1, tag2]
 
