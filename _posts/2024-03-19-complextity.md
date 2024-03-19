@@ -6,7 +6,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /os/process2/
+permalink: /os/complexity/
 
 toc: true
 toc_sticky: true
