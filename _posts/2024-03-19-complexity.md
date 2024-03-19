@@ -1,5 +1,6 @@
 ---
 title: "시간복잡도와 공간복잡도"
+excerpt: "시간복잡도와 공간복잡도에 대해 알아보자!"
 
 categories:
   - OS
